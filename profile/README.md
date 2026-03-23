@@ -17,7 +17,7 @@ Acompanhe os macronutrientes que você consome. Simples, rápido, offline.
 
 ---
 
-### 💪 [Physic Tracker](https://github.com/open-foco/app.gainshot)
+### 💪 [Gainshot](https://github.com/open-foco/app.gainshot)
 Monte suas rotinas de treino e acompanhe sua evolução ao longo do tempo. Seus dados ficam com você.
 
 `React Native` · `Android` · `Open Source`
