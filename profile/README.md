@@ -10,14 +10,14 @@ Só você, seus números e seu progresso.
 
 ## Projetos
 
-### 🥗 [Macro Tracker](https://github.com/open-foco/macro-tracker)
+### 🥗 [Macro Tracker](https://github.com/open-foco/app.macro-tracker)
 Acompanhe os macronutrientes que você consome. Simples, rápido, offline.
 
 `React Native` · `Android` · `Open Source`
 
 ---
 
-### 💪 [Physic Tracker](https://github.com/open-foco/physic-tracker)
+### 💪 [Physic Tracker](https://github.com/open-foco/app.gainshot)
 Monte suas rotinas de treino e acompanhe sua evolução ao longo do tempo. Seus dados ficam com você.
 
 `React Native` · `Android` · `Open Source`
