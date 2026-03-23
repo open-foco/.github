@@ -1,9 +1,3 @@
-# Open Foco
-
-> Código aberto para atletas que querem controle real sobre treino, dieta e evolução — sem distração, sem enrolação.
-
----
-
 ## O que é isso aqui?
 
 Open Foco é uma organização open source que constrói ferramentas para atletas que levam o próprio desempenho a sério.
