@@ -11,7 +11,7 @@ Só você, seus números e seu progresso.
 ## Projetos
 
 ### 🥗 [Macro Tracker](https://github.com/open-foco/app.macro-tracker)
-Acompanhe os macronutrientes que você consome. Simples, rápido, offline.
+Acompanhe os macronutrientes que você consome. Simples, rápido.
 
 `React Native` · `Android` · `Open Source`
 
